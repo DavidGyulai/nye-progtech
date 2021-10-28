@@ -1,5 +1,5 @@
-I fucking GIT
+I fucking love GIT
 
+That's why I'm writing this line
 
-
-Added 4 linebreaks and some text
+Added 4 line breaks and some text
